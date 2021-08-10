@@ -1,7 +1,6 @@
 # PR_MELI_MUTANTES
 
 
-[[_TOC_]]
 
 ## INTRODUCCIÓN
 
