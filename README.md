@@ -35,7 +35,8 @@ No recibe parámetros.
 - **/api/Mutant**: Permite verrificar si un humano es mutante:
 Verbo: POST
 Recibe un json con la siguiente estructura:
-```{
+```
+{
     "dna":
     [
         "ATGCGA",
@@ -46,5 +47,6 @@ Recibe un json con la siguiente estructura:
         "TCACTG"
     ]
 }
+```
 
 
